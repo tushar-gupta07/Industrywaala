@@ -5,6 +5,9 @@
             width: auto !important;
         }
     }
+    .primary-menu-button {
+    margin: 10px 0 !important;
+}
 </style>
 
 
@@ -1082,7 +1085,7 @@
 
         <div class="mobile-menu-body">
             <ul class="menu">
-                <li><a href="https://script.viserlab.com/Industrywaala/demo" class="">Home</a></li>
+                <li><a href="./index.php" class="">Home</a></li>
                 <li><a href="./products.php" class="">Products</a></li>
                 <li><a href="./about-us.php" class="">About Us</a></li>
                 <li><a href="./categories.php" class="">All Categories</a></li>

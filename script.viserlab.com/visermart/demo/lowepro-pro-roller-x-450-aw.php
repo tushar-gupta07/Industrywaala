@@ -1437,17 +1437,7 @@
             </div>
         </div>
     </div>
-    <div class="itc-mobile-sticky-bar d-md-none">
-        <div class="itc-mobile-sticky-inner">
-            <button class="btn itc-btn-cart addToCart flex-shrink-0" data-id="199" data-producttype="1" type="button">
-                <i class="las la-cart-plus me-1"></i> ADD TO CART
-            </button>
 
-            <button type="button" class="btn itc-btn-quote">
-                <i class="las la-file-alt me-1"></i> REQUEST QUOTE
-            </button>
-        </div>
-    </div>
 
     <script>
         (function () {

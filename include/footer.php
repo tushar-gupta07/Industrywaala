@@ -1,4 +1,10 @@
+ <style>
+    body {
+        padding-bottom: 0 !important;
+    }
+</style>
  <footer class="footer-area footer-bg">
+
         <div class="container">
             <div class="footer-top">
 
