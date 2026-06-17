@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+script.viserlab.com	TRUE	/	FALSE	1999999999	gdpr_cookie	Visermart
+script.viserlab.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	yXFIpskJf1UDPEpAzQ3SLIdrul2J11aR4LNHNP34
+script.viserlab.com	TRUE	/	FALSE	1999999999	visermart_session	dkDF1p8SEySYhjZcgUfzNjwyUVeTPB1Ejh3yXNTw
+script.viserlab.com	TRUE	/	FALSE	1999999999	samesite	lax
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	7fc7acb2a755576e3871595e86836cd0
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSY4ZC84V0EyQTRVWTBvQmxndnp2NlArSWJUbHh4RUdmeW5FSzdReEVMYnNzZ1Qzd0pSOE5UR2pqdEd1TzR5ME42UDlGUm5uajliRnYyd3Z5R2ZvVHhmN2NENHZmd0RydkJjZ3dKa2FKcGJrTT0mcUFqTmMySGM2WEgrY0tpUHV5ZGFPajBTb2ZzPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	662ed594-1b16-49f6-b615-1a2682bb6b8a"
+
